@@ -1,6 +1,8 @@
 ! Title: Shortlink Blocklist (user)
-! Last modified: 2026-11-17
 ! Syntax: AdGuard / uBlock Origin
+! Version: 2026.11.17.1437
+! Last modified: 2026-11-17 14:37 KST
+! Checksum-rules: 0306f5b6041d
 !
 ||00m.in^$all
 ||02ip.ru^$all
@@ -284,8 +286,8 @@
 ||goes.cx^$all
 ||goo-gl.me^$all
 ||goo.by^$all
-|https://goo.gl/$all
 |http://goo.gl/$all
+|https://goo.gl/$all
 ||goo.lu^$all
 ||goo.su^$all
 ||goodeal.kr^$all
