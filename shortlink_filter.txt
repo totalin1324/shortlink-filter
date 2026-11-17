@@ -1,8 +1,8 @@
 ! Title: Shortlink Blocklist (user)
 ! Syntax: AdGuard / uBlock Origin
-! Version: 2026.11.17.1437
-! Last modified: 2026-11-17 14:37 KST
-! Checksum-rules: 0306f5b6041d
+! Version: 2026.11.17.1936
+! Last modified: 2026-11-17 19:36 KST
+! Checksum-rules: d47408aa9256
 !
 ||00m.in^$all
 ||02ip.ru^$all
