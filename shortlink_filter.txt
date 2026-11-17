@@ -146,7 +146,6 @@
 ||bohumpick.blog^$all
 ||boi.re^$all
 ||booly.kr^$all
-||borame.co.kr^$all
 ||bote.me^$all
 ||bougn.at^$all
 ||br4.in^$all
@@ -243,7 +242,6 @@
 ||ecra.se^$all
 ||ely.re^$all
 ||enlaza.site^$all
-||epinote.com^$all
 ||erax.cz^$all
 ||erw.cz^$all
 ||eurl.co.kr^$all
