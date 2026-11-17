@@ -33,6 +33,8 @@ https://raw.githubusercontent.com/totalin1324/shortlink-filter/main/shortlink_fi
 
 `goo.gl`은 본 도메인만 차단하고 `maps.app.goo.gl` 등 서브도메인은 허용합니다.
 
+규칙 중 약 260개(2026-11 기준)는 현재 DNS에서 응답하지 않는 도메인입니다. 버려진 단축 도메인은 누구나 다시 등록해 옛 링크를 악용할 수 있으므로, 재등록에 대비해 삭제하지 않고 유지합니다.
+
 ## 규칙 형식
 
 - 한 줄에 도메인 하나: `||example.com^$all`
