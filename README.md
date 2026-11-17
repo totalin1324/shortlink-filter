@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34954306/README.md)
 # Shortlink Blocklist
 
 단축 URL(숏링크), IP 로거, 사칭 도메인을 차단하는 AdGuard / uBlock Origin용 필터입니다.
@@ -8,7 +7,7 @@
 AdGuard 설정 → 필터 → 사용자 정의 → 사용자 정의 필터 추가에 아래 주소를 넣습니다.
 
 ```
-https://raw.githubusercontent.com/<totalin1324>/shortlink-filter/main/shortlink_filter.txt
+https://raw.githubusercontent.com/totalin1324/shortlink-filter/main/shortlink_filter.txt
 ```
 
 "신뢰할 수 있는 필터" 체크는 필요 없습니다.
